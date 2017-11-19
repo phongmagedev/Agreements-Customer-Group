@@ -1,0 +1,14 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: w1ndy
+ * Date: 16/11/2017
+ * Time: 16:03
+ */
+class Fram_Advanceagreements_Model_Group extends Mage_Core_Model_Abstract
+{
+    protected function _construct()
+    {
+        return $this->_init('advanceagreements/group');
+    }
+}

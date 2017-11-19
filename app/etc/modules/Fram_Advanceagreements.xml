@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Fram_Advanceagreements>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>Fram_Clientcommentorder</depends>
+        </Fram_Advanceagreements>
+    </modules>
+</config>
